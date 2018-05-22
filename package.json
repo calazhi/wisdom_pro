@@ -1,8 +1,8 @@
 {
-  "name": "wisdom project",
+  "name": "egscAdminUI",
   "version": "1.0.0",
-  "description": "hd Vue.js project",
-  "author": "hd by calazhi",
+  "description": "egsc-Admin-UI Vue.js project",
+  "author": "egsc-Admin-UI",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -15,12 +15,19 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
+    "child_process": "^1.0.2",
     "crypto-js": "^3.1.9-1",
+    "dns": "^0.2.2",
     "echarts": "^3.8.5",
     "element-ui": "2.2.0",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "tls": "^0.0.1",
+    "ueditor": "^1.2.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "wangeditor": "^3.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

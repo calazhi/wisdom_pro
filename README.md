@@ -1,4 +1,18 @@
-#wisdom_pro
+
+#2017-12-28
+1.前端公共框架egsc-admin-UI添加location.search === '?mock'过滤，http://url?mock支持开启mock数据展示
+2.修改 [vuex] unknown报错问题
+#2017-12-25
+1.前端公共框架egsc-admin-UI添加ES6转ES5的支持，支持IE浏览器下可访问
+添加了babel-polyfill支持,需要npm install 或 npm update
+
+
+#2017-12-13
+1.前端公共框架egsc-admin-UI页面结构实现菜单的可切换，一级菜单展示，二级，三级菜单可展示及切换
+
+
+
+# egsc-admin-UI
 
 > A Vue.js project
 
